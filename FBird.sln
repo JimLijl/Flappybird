@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4A4D0E7C-DE43-D24A-8910-6EC26DE4B47A}") = "FBird", "Assembly-CSharp-firstpass.csproj", "{32FCE581-8717-E8AB-28A2-FA21840AD20E}"
+EndProject
+Project("{4A4D0E7C-DE43-D24A-8910-6EC26DE4B47A}") = "FBird", "Assembly-CSharp.csproj", "{79D8340A-FF13-B1EA-D669-F3BDF0EE1933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FCE581-8717-E8AB-28A2-FA21840AD20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FCE581-8717-E8AB-28A2-FA21840AD20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FCE581-8717-E8AB-28A2-FA21840AD20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FCE581-8717-E8AB-28A2-FA21840AD20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D8340A-FF13-B1EA-D669-F3BDF0EE1933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D8340A-FF13-B1EA-D669-F3BDF0EE1933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D8340A-FF13-B1EA-D669-F3BDF0EE1933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D8340A-FF13-B1EA-D669-F3BDF0EE1933}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
